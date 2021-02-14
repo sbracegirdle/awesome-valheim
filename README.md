@@ -1,5 +1,7 @@
 # Awesome Valheim [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+Useful links and resources for learning and playing Valheim. Please feel free to contribute.
+
 ## Community
 
 - [Steam store page for Valheim](https://store.steampowered.com/app/892970/Valheim/)
@@ -51,3 +53,4 @@ Setting up servers:
 - [Dedicated servers on Kubernetes](https://hackersvanguard.com/valheim-dedicated-server-on-kubernetes/) — also has Dockerfile example
 - [Steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD) — Running headless steam commands
 - [Another Valheim dedicated server guide](https://github.com/F1r3w477/my-tutorials/blob/main/Valheim%20Dedicated%20VPS%20-%20HyperExpert/README.md)
+- [Valheim Docker](https://github.com/rockneurotiko/valheim-docker)
