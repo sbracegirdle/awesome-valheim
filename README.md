@@ -1,4 +1,4 @@
-# Awesome Velheim [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Valheim [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Basics
 
