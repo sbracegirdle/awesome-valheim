@@ -1,5 +1,7 @@
 # Awesome Valheim [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[Steam store page for Valheim](https://store.steampowered.com/app/892970/Valheim/)
+
 ## Basics
 
 - [Beginners guide](https://www.youtube.com/watch?v=dJ02QiERMsY)
