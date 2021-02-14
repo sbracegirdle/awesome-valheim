@@ -44,4 +44,4 @@ Builds
 - [Valheim dedicated servers on Linux](https://gameplay.tips/guides/9765-valheim.html)
 - [Dedicated servers on Kubernetes](https://hackersvanguard.com/valheim-dedicated-server-on-kubernetes/) — also has Dockerfile example
 - [Steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD) — Running headless steam commands
-
+- [Another Valheim dedicated server guide](https://github.com/F1r3w477/my-tutorials/blob/main/Valheim%20Dedicated%20VPS%20-%20HyperExpert/README.md)
