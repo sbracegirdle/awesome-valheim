@@ -39,8 +39,14 @@ Builds
 
 ## Starting dedicated services
 
-- Valheim servers use ports in the range 2456-2458 by default
+Potential hosting providers:
+
+- Linode, AWS, DigitalOcean, Azure, GCP
 - [AWS Lightsail](https://www.youtube.com/watch?v=dJ02QiERMsY) — VPS servers via AWS
+
+Setting up servers:
+
+- Valheim servers use ports in the range 2456-2458 by default
 - [Valheim dedicated servers on Linux](https://gameplay.tips/guides/9765-valheim.html)
 - [Dedicated servers on Kubernetes](https://hackersvanguard.com/valheim-dedicated-server-on-kubernetes/) — also has Dockerfile example
 - [Steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD) — Running headless steam commands
