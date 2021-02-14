@@ -14,6 +14,8 @@
   - [Tools](https://valheim.fandom.com/wiki/Category:Tools)
   - [Weapons](https://valheim.fandom.com/wiki/Category:Weapons)
   - [Resources](https://valheim.fandom.com/wiki/Resources_List)
+    - [Food](https://valheim.fandom.com/wiki/Category:Food)
+    - [Ores](https://valheim.fandom.com/wiki/Category:Ores)
   - [Building](https://valheim.fandom.com/wiki/Building)
 
 ## Mining
