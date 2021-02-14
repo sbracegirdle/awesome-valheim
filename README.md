@@ -3,16 +3,19 @@
 ## Basics
 
 - [Beginners guide](https://www.youtube.com/watch?v=dJ02QiERMsY)
-
+- [Valheim fandom wiki](https://valheim.fandom.com/wiki/Valheim_Wiki) — Out of date but some basic info still helpful
 
 ## Mining
 
+- [Valheim mining guide](https://www.dualshockers.com/valheim-mining-guide/)
 - [Building roads](https://www.youtube.com/watch?v=4Ytr_u9WLI4&ab_channel=Nthershock)
-- [Carts](https://screenrant.com/valheim-craft-use-cart-guide/)
+- [How to use a cart](https://screenrant.com/valheim-craft-use-cart-guide/)
+
 
 ## Builds
 
-- [Viking Longhouse](https://www.youtube.com/watch?v=db0jbylvhBc)
+- [Viking longhouse](https://www.youtube.com/watch?v=db0jbylvhBc)
+- [Viking roundhouse](https://www.youtube.com/watch?v=zbxNFnSYnag)
 
 
 ## Starting dedicated services
