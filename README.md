@@ -1,6 +1,9 @@
 # Awesome Valheim [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[Steam store page for Valheim](https://store.steampowered.com/app/892970/Valheim/)
+## Community
+
+- [Steam store page for Valheim](https://store.steampowered.com/app/892970/Valheim/)
+- [Valheim Discord](https://discord.com/invite/44qXMJH)
 
 ## Basics
 
