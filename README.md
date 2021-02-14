@@ -4,6 +4,11 @@
 
 - [Beginners guide](https://www.youtube.com/watch?v=dJ02QiERMsY)
 - [Valheim fandom wiki](https://valheim.fandom.com/wiki/Valheim_Wiki) — Out of date but some basic info still helpful
+  - [Biomes](https://valheim.fandom.com/wiki/Biomes)
+  - [Creatures](https://valheim.fandom.com/wiki/Creatures)
+  - [Tools](https://valheim.fandom.com/wiki/Category:Tools)
+  - [Weapons](https://valheim.fandom.com/wiki/Category:Weapons)
+  - [Resources](https://valheim.fandom.com/wiki/Resources_List)
 
 ## Mining
 
