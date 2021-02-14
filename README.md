@@ -21,9 +21,15 @@
 - [Valheim mining guide](https://www.dualshockers.com/valheim-mining-guide/)
 - [Building roads](https://www.youtube.com/watch?v=4Ytr_u9WLI4&ab_channel=Nthershock)
 - [How to use a cart](https://screenrant.com/valheim-craft-use-cart-guide/)
+- [How to mine iron](https://www.pcgamer.com/au/how-to-get-valheim-iron-ore-gate-armor/)
 
+## Building
 
-## Builds
+Guides
+
+- [How to progress to stone building](https://www.pcgamer.com/au/how-to-get-valheim-stone-building-cutter-walls-pickaxe/) — TL;DR you need a stone axe, stone cutter (bench made of iron)
+
+Builds
 
 - [Viking longhouse](https://www.youtube.com/watch?v=db0jbylvhBc)
 - [Viking roundhouse](https://www.youtube.com/watch?v=zbxNFnSYnag)
