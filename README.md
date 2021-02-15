@@ -39,7 +39,14 @@ Builds
 - [Viking roundhouse](https://www.youtube.com/watch?v=zbxNFnSYnag)
 
 
-## Starting dedicated services
+## Servers
+
+## Managed hosting
+
+- https://www.g-portal.com/au/gameserver/valheim-server-hosting
+- https://nodecraft.com/games/valheim-server-hosting
+
+## Do it yourself servers
 
 Potential hosting providers:
 
@@ -54,3 +61,5 @@ Setting up servers:
 - [Steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD) — Running headless steam commands
 - [Another Valheim dedicated server guide](https://github.com/F1r3w477/my-tutorials/blob/main/Valheim%20Dedicated%20VPS%20-%20HyperExpert/README.md)
 - [Valheim Docker](https://github.com/rockneurotiko/valheim-docker)
+
+
