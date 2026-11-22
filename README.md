@@ -45,6 +45,7 @@ Builds
 
 - https://www.g-portal.com/au/gameserver/valheim-server-hosting
 - https://nodecraft.com/games/valheim-server-hosting
+- [Radclub](https://radclub.gg/) — Radclub is dedicated Valheim server hosting for friend groups. The group can play when the usual host is offline. Friends chip into one shared balance, so nobody pays alone. Also hosts Minecraft. Game servers run in the EU.
 
 ## Do it yourself servers
 
